@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "d": "bash deploy.sh"
+  },
+  "dependencies": {
+    "vuepress": "^1.0.0-alpha.30"
+  }
+}
